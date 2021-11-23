@@ -1,9 +1,13 @@
 ﻿using System;
 
-namespace Metotlar//tekrar tekrar kullanılabilirliği sağlayan ortam sunar
+namespace Metotlar
+    
+    
+    //tekrar tekrar kullanılabilirliği sağlayan ortam sunar
 {
     //Don't repeat yourself
     class Program
+
     {
         static void Main(string[] args)
         {

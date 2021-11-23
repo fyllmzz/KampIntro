@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Metotlar
+
 {
+
     class Urun
+
     {
         //bir ürünün ürün özelliklerini belirtmem gerekir.
         //property=özellik

@@ -24,5 +24,10 @@ namespace GenericsIntro
             }
             items[items.Length - 1] = item;//aslında eklenmek istenen elemanı şuan ekledim.
         }
+
+        public int Length
+        {
+            get { return items.Length; }
+        }
     }
 }

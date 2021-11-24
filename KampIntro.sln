@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev", "Odev\Odev.csproj", "{8A8BF5BC-F98F-4E68-8DE7-626E22CB1244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{20FB08A6-ACD5-4597-A5AC-9C30C15A2F40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{20FB08A6-ACD5-4597-A5AC-9C30C15A2F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{C19CECCB-AB6B-459B-8E40-91BDCFAE1941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{C19CECCB-AB6B-459B-8E40-91BDCFAE1941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{0242AA12-A6EB-421F-916D-100B91F6ACCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{0242AA12-A6EB-421F-916D-100B91F6ACCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{4632904F-55C5-47BE-A0B9-1F060E1F10DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0242AA12-A6EB-421F-916D-100B91F6ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0242AA12-A6EB-421F-916D-100B91F6ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0242AA12-A6EB-421F-916D-100B91F6ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4632904F-55C5-47BE-A0B9-1F060E1F10DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4632904F-55C5-47BE-A0B9-1F060E1F10DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4632904F-55C5-47BE-A0B9-1F060E1F10DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4632904F-55C5-47BE-A0B9-1F060E1F10DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

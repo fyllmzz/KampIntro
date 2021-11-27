@@ -5,8 +5,9 @@ using System.Text;
 
 namespace InterfaceAbstractDemo.Abstract
 {
-    public interface ICustomerService
+       public  interface ICustomerCheckService//kontrolleri
     {
-        void Save(Customer customer);//iki firma da veritabanına kayıt yapmamızı istiyor.
+        Boolean CheckIfRealPerson(Customer customer);
+        
     }
 }

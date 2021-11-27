@@ -5,11 +5,12 @@ using System.Text;
 
 namespace InterfaceAbstractDemo.Abstract
 {
+    //Temel class
     public abstract class  BaseCustomerManager : ICustomerService
     {
-        public void Save(Customer customer)
+        public virtual void Save(Customer customer)//virtual dersek ben bu metodu ezebilirim. 
         {
-            Console.WriteLine("Veritabanına kaydedildi.");
+            Console.WriteLine("Save to db :"+customer.FirstName);
         }
     }
 }
